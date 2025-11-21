@@ -1,8 +1,6 @@
 # 📊 Dashboard 360 – Real‑Time Power BI Project
 
-[![Power BI](https://img.shields.io/badge/Tool‑Power%20BI‑04A6C1?logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)  
-[![GitHub Issues](https://img.shields.io/github/issues/Manojsv20/Real-time-powerBI-project)](https://github.com/Manojsv20/Real-time-powerBI-project/issues)  
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+
 
 ---
 
