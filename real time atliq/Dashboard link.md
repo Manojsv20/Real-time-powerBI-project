@@ -46,3 +46,4 @@ This includes the uncompressed dataset from the gdb056 SQL database, which adds 
 
 https://app.powerbi.com/view?r=eyJrIjoiZjIxMzBhNTAtMTU3Yy00NzBjLTgzODQtOGJmNDk3NTUxOWEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
 
+FULL explaination video :https://drive.google.com/file/d/1SW-v4HkCZpBF2pIbK7UPuhIXyNF-H5MW/view?usp=sharing
